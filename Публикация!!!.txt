@@ -1,0 +1,2 @@
+https://qna.habr.com/q/1146848
+dotnet publish -r win-x64 --self-contained -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o ./publish-path
